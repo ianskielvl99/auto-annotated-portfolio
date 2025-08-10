@@ -153,4 +153,5 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
+metaTitle: Home | Ian Permito | Web Developer
 ---
