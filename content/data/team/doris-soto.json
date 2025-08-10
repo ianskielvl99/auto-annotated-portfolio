@@ -5,7 +5,7 @@
     "image": {
         "type": "ImageBlock",
         "url": "/images/formalHS1.jpg",
-        "altText": "altText of the image",
+        "altText": "Ian Permito",
         "caption": "Caption of the image",
         "elementId": ""
     }
