@@ -154,4 +154,7 @@ sections:
         flexDirection: row
         textAlign: left
 metaTitle: Home | Ian Permito | Web Developer
+metaDescription: >-
+  I’m a developer, digital artist, consultant, DESIGN PROJECT SPECIALIST,
+  Quality analyst
 ---
