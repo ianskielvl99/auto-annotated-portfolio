@@ -4,7 +4,10 @@
     "lastName": "Permito",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
-        "altText": "Doris Soto photo"
-    }
+        "url": "/images/formalHS1.jpg",
+        "altText": "Ian Permito",
+        "caption": "Web Developer",
+        "elementId": ""
+    },
+    "role": "Web Master"
 }
