@@ -35,10 +35,11 @@
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "label": "Facebook",
+                "altText": "",
+                "url": "/ianskielvl99",
+                "icon": "instagram",
+                "elementId": ""
             }
         ],
         "styles": {
